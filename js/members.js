@@ -17,7 +17,7 @@ const MEMBERS = [
   {
     nama: "Aditia Permana Wibowo",
     peran: "Kepala Acara",
-    foto: "assets/foto/adit.jpg",
+    foto: "assets/foto/adit.jpeg",
     deskripsi:
       "Memastikann acara berjalan dengan baik, di support dengan ilmu kebatinan saya",
     skill: ["pawang ujan", "tambah rezeki", "santet"],
