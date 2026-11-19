@@ -15,7 +15,7 @@ const TEAM = {
 
 const MEMBERS = [
   {
-    nama: "Aditia Permana Wibowo",
+    nama: "Aditia Permana Wibowo Nugroho",
     peran: "Kepala Acara",
     foto: "assets/foto/adit.jpeg",
     deskripsi:
