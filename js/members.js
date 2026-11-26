@@ -25,7 +25,7 @@ const MEMBERS = [
   },
   {
     nama: "Syafira Andyani Putri",
-    peran: "Pelayan Masyarakat",
+    peran: "Pengaduan Masyarakat",
     foto: "assets/foto/asya.jpg",
     deskripsi:
       "Merancang tampilan dan alur pengguna agar mudah dipakai. Suka riset pengguna dan prototyping cepat.",
